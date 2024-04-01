@@ -361,7 +361,7 @@ aria-label = back to top
 Delicious & Amazing
 Our Menu
 
-Special Offer
+Special Offer.
 Best Special Menu
 
 alt = Greek Salad
